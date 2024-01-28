@@ -12,6 +12,15 @@ List of resources about computing history
 
 ## Protocols
 
+- [FTP](https://www.systemtek.co.uk/2023/08/navigating-through-time-the-history-and-insecurity-of-ftp/): In the vast realm of computer networking, few protocols have withstood the test of time like the File Transfer Protocol (FTP).
+- [Ethernet](https://www.oreilly.com/library/view/ethernet-the-definitive/1565926609/ch01.html): Ethernet is by far the most widely used local area networking (LAN) technology in the world today.
+- [TCP/IP](https://cds.cern.ch/record/2855572/files/A%20Short%20History%20of%20Internet%20Protocols%20at%20CERN.pdf): A Short History of Internet Protocols at CERN.
+- [DNS](https://www.researchgate.net/profile/Adi-Purnama-2/publication/362698920_The_History_of_DNS/links/62fa7526eb7b135a0e39ca9a/The-History-of-DNS.pdf): The History of DNS.
+- [NTP](https://docs.ntpsec.org/latest/history.html): The first NTP implementation started around 1980 with an accuracy of only several hundred milliseconds.
+- [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP): HTTP (HyperText Transfer Protocol) is the underlying protocol of the World Wide Web.
+- [DHCP](https://www.isc.org/dhcphistory/): The Dynamic Host Configuration Protocol (DHCP) was first defined as a standards-track protocol in RFC 1531 in October 1993, as an extension to the Bootstrap Protocol (BOOTP), a network protocol used by a network client to obtain an IP address from a configuration server.
+- [SSH](https://www.ssh.com/about/history/): After a password-sniffing attack at his university network, Tatu Ylönen designed the first version of the Secure Shell (SSH) protocol.
+
 ## Languages
 
 - [FORTRAN](https://www.mrao.cam.ac.uk/~pa/f90Notes/HTMLNotesnode5.html): Fortran, which originally stood for IBM Mathematical FORmula TRANslation System but has been abbreviated to FORmula TRANslation, is the oldest of the established high-level languages, having been designed by a group in IBM during the late 1950s.
@@ -29,6 +38,7 @@ List of resources about computing history
 - [Haskell](https://serokell.io/blog/haskell-history): The first milestone in the History of Haskell is dedicated to the FPCA ‘87 conference, which was held in Portland, Oregon.
 - [Ruby](https://launchschool.com/books/ruby/read/introduction): Ruby was created by Yukihiro Matsumoto, or "Matz", in Japan in the mid 1990's.
 - [JavaScript](https://dev.to/dboatengx/history-of-javascript-how-it-all-began-92a): JavaScript is a programming language that represents one of the three core languages used to develop websites, alongside HTML and CSS.
+- [APEX](https://craftware.com/history-of-apex-language-compiler/): Its first implementation occurred with the Winter ’07 release but it was only for the internal use of Salesforce. 
 - [Swift](https://www.swift.org/about/): Swift is a general-purpose programming language that’s approachable for newcomers and powerful for experts.
 - [TypeScript](https://invedus.com/blog/what-is-typescript-definition-history-features-and-uses-of-typescript/): Anders Hejlsberg created TypeScript in 2010 at Microsoft, and its first version was available to the public in 2012, known as TypeScript 0.8.
 
