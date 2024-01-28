@@ -1,11 +1,11 @@
 # Ultimate List Computing History
 List of resources about computing history
 
-## Contents
+## Contents
 - [Hardware](#hardware)
 - [Protocols]({protocols)
 - [Languages](#languages)
-- [Operating Systems](#operatingsystems)
+- [Operating Systems](#operating-systems)
 
 
 ## Hardware
