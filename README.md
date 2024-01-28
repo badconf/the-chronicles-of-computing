@@ -1,6 +1,6 @@
 # The Chronicles of Computing
 
-Welcome to this repository, a curated collection of articles and resources that intricately weave the story of computing - from its nascent stages to the marvels of modern technology. This anthology serves as a gateway to understanding the pivotal developments, key innovations, and the brilliant minds behind the evolution of computer science.
+This repository is a curated collection of articles and resources that intricately weave the story of computing - from its nascent stages to the marvels of modern technology. This anthology serves as a gateway to understanding the pivotal developments, key innovations, and the brilliant minds behind the evolution of computer science.
 
 ## Overview
 
