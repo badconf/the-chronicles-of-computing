@@ -1,16 +1,22 @@
-# Ultimate List Computing History
-List of resources about computing history
+# The Chronicles of Computing
 
-## Contents
-- [Hardware](#hardware)
-- [Protocols]({protocols)
-- [Languages](#languages)
-- [Operating Systems](#operating-systems)
+Welcome to this repository, a curated collection of articles and resources that intricately weave the story of computing - from its nascent stages to the marvels of modern technology. This anthology serves as a gateway to understanding the pivotal developments, key innovations, and the brilliant minds behind the evolution of computer science.
+
+## Overview
+
+Computing has come a long way since the early days of bulky machines and rudimentary coding languages. Today, it stands as the backbone of our digital existence, a testament to human ingenuity and relentless pursuit of knowledge. Within this repository, you will find links to articles covering a broad spectrum of topics, including:
+
+- [Hardware](#hardware): Explore the progression from the first electronic computers to today's advanced microprocessors.
+- [Protocols and Networking]({protocols-and-networking): Delve into the development of protocols like TCP/IP that laid the groundwork for the internet.
+- [Programming Languages](#programming-languages): Trace the evolution of programming languages from machine code to high-level, modern languages.
+- [Operating Systems](#operating-systems): Learn about the journey from basic OS designs to the sophisticated systems powering devices around the globe.
+- [Innovative Inventions](#innovative-inventions): Discover the myriad inventions that have been integral to the advancement of computing technology.
 
 
 ## Hardware
 
-## Protocols
+
+## Protocols and Networking
 
 - [FTP](https://www.systemtek.co.uk/2023/08/navigating-through-time-the-history-and-insecurity-of-ftp/): In the vast realm of computer networking, few protocols have withstood the test of time like the File Transfer Protocol (FTP).
 - [Ethernet](https://www.oreilly.com/library/view/ethernet-the-definitive/1565926609/ch01.html): Ethernet is by far the most widely used local area networking (LAN) technology in the world today.
@@ -21,7 +27,7 @@ List of resources about computing history
 - [DHCP](https://www.isc.org/dhcphistory/): The Dynamic Host Configuration Protocol (DHCP) was first defined as a standards-track protocol in RFC 1531 in October 1993, as an extension to the Bootstrap Protocol (BOOTP), a network protocol used by a network client to obtain an IP address from a configuration server.
 - [SSH](https://www.ssh.com/about/history/): After a password-sniffing attack at his university network, Tatu Ylönen designed the first version of the Secure Shell (SSH) protocol.
 
-## Languages
+## Programming Languages
 
 - [FORTRAN](https://www.mrao.cam.ac.uk/~pa/f90Notes/HTMLNotesnode5.html): Fortran, which originally stood for IBM Mathematical FORmula TRANslation System but has been abbreviated to FORmula TRANslation, is the oldest of the established high-level languages, having been designed by a group in IBM during the late 1950s.
 - [Lisp](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf): The structure of Lisp makes it easy to extend the language or even to implement entirely new dialects without starting from scratch.
@@ -45,3 +51,8 @@ List of resources about computing history
 
 
 ## Operating Systems
+
+
+## Innovative Inventions
+
+
