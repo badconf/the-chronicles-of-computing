@@ -69,7 +69,7 @@ Computing has come a long way since the early days of bulky machines and rudimen
 ## Innovative Inventions
 
 - [Binary system](https://www.convertbinary.com/blog/binary-number-system-history/): The binary number system has been the most impactful numerical system in the history of technological development.
-- [Carte perforée](https://hal.science/sic_00000406/): Une histoire socio-technique du système électrique de tabulation à cartes perforées.
+- [Punched card](https://artsandculture.google.com/story/bwWBrooyeGKPiA): For almost fifty years, the Hollerith punched card held the majority of the world’s known information and was the primary method of storing, sorting and processing data.
 - [Turing Machines](https://plato.stanford.edu/entries/turing-machine/): Turing machines, first described by Alan Turing in Turing 1936–7, are simple abstract computational devices intended to help investigate the extent and limitations of what can be computed.
 - [ASCII code](https://www.historyofinformation.com/detail.php?id=803): In 1963 the ASCII (American Standard Code for Information InterchangeOffsite Link) standard was promulgated by the American National Standards Institute, specifying the pattern of seven bits to represent letters, numbers, punctuation, and control signals in computers.
 - [e-mail](https://www.exabytes.cloud/blog/history-of-email/): Email is considered to be a modern method of communication. However, you might be surprised that the history of email stretches back over 50 years.
