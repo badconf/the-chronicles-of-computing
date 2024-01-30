@@ -7,7 +7,7 @@ This repository is a curated collection of articles and resources that intricate
 Computing has come a long way since the early days of bulky machines and rudimentary coding languages. Today, it stands as the backbone of our digital existence, a testament to human ingenuity and relentless pursuit of knowledge. Within this repository, you will find links to articles covering a broad spectrum of topics, including:
 
 - [Hardware](#hardware): Explore the progression since the first electronic computers.
-- [Protocols and Networking]({protocols-and-networking): Delve into the development of protocols that laid the groundwork for the internet.
+- [Protocols and Networking]({protocols-and-networking): Delve into the development of protocols.
 - [Programming Languages](#programming-languages): Trace the evolution of programming languages.
 - [Operating Systems](#operating-systems): From basic OS designs to the sophisticated systems.
 - [Innovative Inventions](#innovative-inventions): Discover the inventions around computing technology.
