@@ -121,3 +121,8 @@ Computing has come a long way since the early days of bulky machines and rudimen
 - [e-mail](https://www.exabytes.cloud/blog/history-of-email/): Email is considered to be a modern method of communication. However, you might be surprised that the history of email stretches back over 50 years.
 - [RDBMS](https://www.ibm.com/topics/relational-databases): A brief history of relational databases.
 - [RSA encryption](https://www.math.uchicago.edu/~may/VIGRE/VIGRE2007/REUPapers/FINALAPP/Calderbank.pdf): The RSA Cryptosystem: History, Algorithm, Primes.
+- [USB](https://www.cuidevices.com/blog/the-history-of-usb-standards-from-1-to-usb4): The History of USB Standards from 1.0 to USB4.
+- [Browser](https://www.home.cern/science/computing/birth-web/short-history-web): Tim Berners-Lee, a British scientist, invented the World Wide Web (WWW) in 1989, while working at CERN.
+- [Bluetooth](https://theauris.com/blogs/blog/the-history-of-bluetooth): Bluetooth is a short form communication technology that uses radio waves.
+- [WiFi](https://www.wifirst.com/en/blog/thehistoryofwifitechnology): The history of WiFi technology.
+
