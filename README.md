@@ -94,11 +94,22 @@ Computing has come a long way since the early days of bulky machines and rudimen
 - [TypeScript](https://invedus.com/blog/what-is-typescript-definition-history-features-and-uses-of-typescript/): Anders Hejlsberg created TypeScript in 2010 at Microsoft, and its first version was available to the public in 2012, known as TypeScript 0.8.
 
 
-
 ## Operating Systems
 
 - [UNIX](https://www.bell-labs.com/usr/dmr/www/hist.html): The Evolution of the Unix Time-sharing System.
 - [Virtualization](https://docs.oracle.com/cd/E26996_01/E18549/html/VMUSG1010.html): Brief History of Virtualization.
+- [MS-DOS](https://dos.fandom.com/wiki/MS-DOS_Version_History): Microsoft DOS was released through the OEM channel, until Digital Research released DR DOS 5.0 as a retail upgrade.
+- [SunOS](https://cse.unl.edu/~witty/class/csce351/howto/history_of_solaris.pdf): The History of Solaris.
+- [Novell Netware](https://lemp.io/the-history-of-novell-netware/): The History Of Novell Netware.
+- [CP/M](https://landley.net/history/mirror/cpm/history.html): The original CP/M is an operating system for 8-bit computers.
+- [Microsoft Windows](https://www.theguardian.com/technology/2014/oct/02/from-windows-1-to-windows-10-29-years-of-windows-evolution): From Windows 1 to Windows 10: 29 years of Windows evolution.
+- [IBM AIX](https://aix4admins.blogspot.com/2011/05/test.html): The history of AIX starts with the history of Unix.
+- [HP-UX](https://www.operating-system.org/betriebssystem/_english/bs-hpux.htm): HP-UX is based on the UNIX System V Release 4 and was designed by HP for the RISC architecture of Motorola.
+- [IBM OS/2](https://www.os2museum.com/wp/os2-history/os2-beginnings/): The following text is not an introduction to the history of OS/2 or the design of the operating system.
+- [Linux](https://www.oreilly.com/library/view/running-linux-third/156592469X/ch01s02.html): Linux is a freely distributable version of Unix, originally developed by Linus Torvalds, who began work on Linux in 1991 as a student at the University of Helsinki in Finland.
+- [FreeBSD](https://klarasystems.com/articles/history-of-freebsd-unix-and-bsd/): FreeBSD, a free and open-source Unix-like operating system has been around since 1993.
+- [BeOS](https://www.beunited.org/about/index.php): The creation and development of BeOS is tied directly with the founding and evolution of Be Inc.
+- [macOS](https://history-computer.com/complete-history-of-mac-os/): Complete History of Mac OS.
 
 
 ## Innovative Inventions
