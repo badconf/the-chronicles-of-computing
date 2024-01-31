@@ -126,3 +126,7 @@ Computing has come a long way since the early days of bulky machines and rudimen
 - [Bluetooth](https://theauris.com/blogs/blog/the-history-of-bluetooth): Bluetooth is a short form communication technology that uses radio waves.
 - [WiFi](https://www.wifirst.com/en/blog/thehistoryofwifitechnology): The history of WiFi technology.
 
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
