@@ -15,50 +15,51 @@ Computing has come a long way since the early days of bulky machines and rudimen
 
 ## Hardware
 
-- [ENIAC](https://www.hp.com/ca-en/shop/offer.aspx?p=computer-history-all-about-the-eniac): The ENIAC, or Electronic Numerical Integrator and Computer, was the result of a U.S. government-funded project during World War II to build an electronic computer that could be programmed.
-- [Transistor](https://www.sjsu.edu/faculty/watkins/transist.htm): The crucial component of an electronic device is a controllable valve that lets a weak signal control a much larger flow much as a faucet controls the flow of water.
-- [Hard disk drive](https://www.computerhistory.org/storageengine/first-commercial-hard-disk-drive-shipped/): In 1954 Reynold Johnson assembled a team at the IBM R&D Laboratory at 99 Notre Dame Ave., San Jose, California charged with developing fast mass storage systems to replace punched cards and magnetic tape in accounting and inventory control applications.
-- [Integrated circuit](https://anysilicon.com/history-integrated-circuit/): The integrated circuit, sometimes called a ASIC, IC, or just a chip, is a series of transistors placed on a small, flat piece that is usually made of silicon.
-- [IBM System/360](https://www.ibm.com/history/system-360): It was called “IBM’s $5 billion gamble” and a “bet-the-business” move.
-- [RAM](https://hybrid.co.id/post/history-of-random-access-memory): The History of Random Access Memory: From Drums to DDR5.
-- [Apple II](https://americanhistory.si.edu/collections/nmah_334638): In 1976, computer pioneers Steve Wozniak and Steve Jobs began selling their Apple I computer in kit form to computer stores.
-- [Commodore PET](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/): First announced and demonstrated in January of 1977 at the Consumer Electronics Show in Chicago, months before the Apple II or Radio Shack TRS80, the Commodore PET was the worlds first Personal Computer.
-- [Tandy TRS-80](https://time.com/3968790/tandy-trs-80-history/): When the TRS-80 — a personal computer from Tandy that would be sold via their RadioShack stores, hence TRS — went on sale on Aug. 3 in 1977, computers weren’t exactly new.
-- [Commodore VIC-20](https://www.commodore.ca/commodore-products/commodore-vic-20-the-first-inexpensive-home-computer/): Worlds First Computer to Sell 1 Million Units.
-- [Acorn BBC Micro](https://parkershaw.co.uk/blog/history-of-computing-the-bbc-microcomputer): For many who grew up during the 1980s and 1990s a BBC microcomputer would have been a familiar sight in the classroom.
-- [NEC PC-88](https://tvtropes.org/pmwiki/pmwiki.php/Platform/PC88): In the 1980s, Western personal computers were scarce in the Japanese market, in large part because they weren't equipped to handle Japanese characters.
-- [Osborne 1](https://www.computinghistory.org.uk/det/504/osborne-1/): The Osborne 1 was the first widely accepted portable computer that included a monitor, disk drives and all components.
-- [IBM PC 5150](https://www.ibm.com/history/personal-computer): A USD 1,500 open-architecture machine became an industry standard and brought computing to the masses.
-- [Sinclair ZX Spectrum](https://www.c64-wiki.com/wiki/ZX_Spectrum): The ZX Spectrum (nick name: Speccy) is an 8-Bit home computer, which was very successful in the 80s, especially in Great Britain and Spain where it was the best seller home computer.
-- [Commodore 64](https://www.commodore.ca/commodore-products/commodore-64-the-best-selling-computer-in-history/): The Best Selling Computer In History.
-- [Compaq Portable](https://oldcomputers.net/compaqi.html): The Compaq Portable was the first 100% compatible IBM computer clone.
-- [Oric-1](https://www.nostalgianerd.com/oric-1-review/): The Oric-1 was an 8 bit micro from 1983 produced by Oric Products International Ltd and Tangerine Computer Systems. Released as a competitor to the Sinclair Spectrum, it never gained the popularity it perhaps deserved, but still gained enough momentum for a strong fan base.
-- [Apple Lisa](https://spectrum.ieee.org/apple-lisa):  The Lisa Was Apple’s Best Failure. Its GUI, mouse, and software greatly influenced the Macintosh.
-- [MSX](https://www.msx.org/wiki/What_is_MSX%3F): MSX is a Zilog Z80-based family of home computers which appeared in autumn 1983 as an attempt to establish a single standard in home computing similar to VHS in video.
-- [Adam Coleco](https://www.adamcomputer.blog/about/): When Adam was originally announced by Coleco in June 1983 it generated a lot of excitement.
-- [SGI Iris 1000](https://wiki.preterhuman.net/index.php?title=Silicon_Graphics&mobileaction=toggle_view_desktop): SGI (Silicon Graphics, Inc.) began as a maker of graphics display terminals in 1982.
-- [IBM PCjr](https://www.brutman.com/PCjr/pcjr_history.html): Rumors of "The Peanut" started in 1983. When it was finally announced November 1st, 1983 it was named "PCjr", model number 4860.
-- [Amstrad CPC 464](https://www.dataserve-retro.co.uk/contents/en-uk/d16.html): Although they never reached the vast sales figures of the Sinclair Spectrum or Commodore 64, history shows that the CPC range of computers were still well up there, with a very loyal user base.
-- [Apple Macintosh](https://apple-history.com/128k): Released with much fanfare in January of 1984, the Macintosh was the first affordable computer to include a Graphical User Interface.
-- [Toshiba T-1100](https://museum.ipsj.or.jp/en/computer/personal/0016.html): This was a 16-bit portable personal computer which Toshiba developed as they switched their personal computer strategy to an IBM PC compatible strategy.
-- [Amiga 1000](https://theamigamuseum.com/amiga-models/amiga-1000/): Showcased to the world in a grand unveiling by Commodore in 1985, The Commodore Amiga (as it was known at the time) was truly a ground breaking machine.
-- [Atari ST](https://www.extremetech.com/gaming/293349-when-the-atari-st-was-the-future-of-computing): The Atari 520ST was Atari's first 16-bit salvo in the personal computer wars of the 1980s.
-- [Amstrad PCW](https://github.com/MiSTer-devel/Amstrad-PCW_MiSTer/blob/master/README.md): The Amstrad PCW was a line of computers released by Amstrad UK in the mid 1980's to provide a cheaper alternative to owning an IBM PC for word processing and simple office type applications.
-- [Apple Macintosh Plus](https://apple-history.com/plus): Announced in January 1986, the Mac Plus was the answer to complaints that the original Mac was not expandable.
-- [Acorn Archimedes](https://www.chessprogramming.org/Acorn_Archimedes): Acorn Archimedes, (BBC Archimedes), a family of personal computers or workstations by Acorn Computers Ltd launched from July 1987 to the 90s, their first general purpose computer based on their own 32-bit ARM architecture with ARM2 and later ARM3 CMOS RISC processors running at 8 MHz.
-- [Apple Macintosh II](https://www.cultofmac.com/470185/tiah-macintoshii/): The Mac II was an enormously impressive machine for its day.
-- [Amiga 500](https://theamigamuseum.com/amiga-models/amiga-500/): This was the machine that turned things around for Commodore when it was released in 1987.
-- [Sharp X68000](https://museum.ipsj.or.jp/en/computer/personal/0038.html): The X68000 was a 16-bit personal computer announced by Sharp in 1986, and first marketed in March 1987.
-- [NeXT Computer](https://lowendmac.com/2014/full-circle-a-brief-history-of-next/): A Brief History of NeXT.
-- [IBM AS/400](https://www.encora.com/insights/ibm-as400-historical-journey-and-future): The IBM AS/400 (Application System/400) is a family of midrange computers from IBM.
-- [IBM PS/2](https://www.ibm.com/history/ps-2): IBM’s Personal System/2 established a new standard for how PCs got made, and reset expectations around what they could accomplish.
-- [IBM PS/1](https://americanhistory.si.edu/collections/nmah_1303225): A microcomputer designed primarily for home use.
-- [Apple PowerBook](https://everymac.com/systems/apple/powerbook/index-powerbook.html): The Apple PowerBook series was sold from October 1991 to February 1997 and the earlier Macintosh Portable first was released in September 1989.
-- [Amiga 1200](https://theamigamuseum.com/amiga-models/amiga-1200/): While the Amiga 500 plus and the Amiga 600 were largely considered to not be worth upgrading from an Amiga 500 for, the Amiga 1200 was most certainly worth considering upgrading to.
-- [IBM ThinkPad](https://www.thinkwiki.org/wiki/ThinkPad_History): The ThinkPad line was first developed at the IBM Yamato Facility in Japan, and the first ThinkPads were released in October 1992.
-- [Apple Power Macintosh](https://apple-history.com/6100): Introduced in March 1994, the PowerMac 6100 was the first Mac to be powered by a PowerPC processor.
-- [IBM Aptiva](https://americanhistory.si.edu/collections/nmah_1451182): This black microcomputer includes a tower with attached base, a monitor with swivel and stand, a media console that fits under the monitor and holds a diskette and a cd, and a keyboard with mouse.
-- [Sun Ultra 1](https://www.computinghistory.org.uk/det/11392/Sun-Ultra-1-Creator/): The Ultra 1 is a family of Sun Microsystems workstations based on the 64-bit UltraSPARC microprocessor.
+- [ENIAC](https://www.hp.com/ca-en/shop/offer.aspx?p=computer-history-all-about-the-eniac), HPE.
+- [Transistor](https://www.sjsu.edu/faculty/watkins/transist.htm), San José State University.
+- [Disque dur](https://www.computerhistory.org/storageengine/first-commercial-hard-disk-drive-shipped/), Computer History Museum.
+- [Circuit intégré](https://anysilicon.com/history-integrated-circuit/), AnySilicon.
+- [IBM System/360](https://www.ibm.com/history/system-360), IBM.
+- [RAM](https://hybrid.co.id/post/history-of-random-access-memory), Cyber Media Guide.
+- [Apple II](https://americanhistory.si.edu/collections/nmah_334638), National Museum of American History.
+- [Commodore PET](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/), Commodore.
+- [Tandy TRS-80](https://time.com/3968790/tandy-trs-80-history/), TIME.
+- [Commodore VIC-20](https://www.commodore.ca/commodore-products/commodore-vic-20-the-first-inexpensive-home-computer/), Commodore.
+- [Acorn BBC Micro](https://parkershaw.co.uk/blog/history-of-computing-the-bbc-microcomputer), Parker Shaw.
+- [NEC PC-88](https://tvtropes.org/pmwiki/pmwiki.php/Platform/PC88), TVTropes.
+- [Osborne 1](https://www.computinghistory.org.uk/det/504/osborne-1/), Centre of Computing History.
+- [IBM PC 5150](https://www.ibm.com/history/personal-computer), IBM.
+- [Sinclair ZX Spectrum](https://www.c64-wiki.com/wiki/ZX_Spectrum), C64 Wiki.
+- [Commodore 64](https://www.commodore.ca/commodore-products/commodore-64-the-best-selling-computer-in-history/), Commodore.
+- [Compaq Portable](https://oldcomputers.net/compaqi.html), Steve’s Old Computer Museum.
+- [Oric-1](https://www.nostalgianerd.com/oric-1-review/), Nostalgia Nerd.
+- [Apple Lisa](https://spectrum.ieee.org/apple-lisa), Institute of Electrical and Electronics Engineers.
+- [MSX](https://www.msx.org/wiki/What_is_MSX%3F), MSX.
+- [Adam Coleco](https://www.adamcomputer.blog/about/), Jeff’s Coleco Adam Blog.
+- [SGI Iris 1000](https://wiki.preterhuman.net/index.php?title=Silicon_Graphics&mobileaction=toggle_view_desktop), Higher Intellect Vintage Wiki.
+- [IBM PCjr](https://www.brutman.com/PCjr/pcjr_history.html), Michael B. Brutman.
+- [Amstrad CPC 464](https://www.dataserve-retro.co.uk/contents/en-uk/d16.html), DataServe Retro.
+- [Apple Macintosh](https://apple-history.com/128k), Apple History.
+- [Toshiba T-1100](https://museum.ipsj.or.jp/en/computer/personal/0016.html), IPSJ Computer Museum.
+- [Amiga 1000](https://theamigamuseum.com/amiga-models/amiga-1000/), The Amiga Museum.
+- [Atari ST](https://www.extremetech.com/gaming/293349-when-the-atari-st-was-the-future-of-computing), Extreme Tech.
+- [Amstrad PCW](https://github.com/MiSTer-devel/Amstrad-PCW_MiSTer/blob/master/README.md), MiSTer-devel.
+- [Apple Macintosh Plus](https://apple-history.com/plus), Apple History.
+- [Acorn Archimedes](https://www.chessprogramming.org/Acorn_Archimedes), Chess Programming Wiki.
+- [Apple Macintosh II](https://www.cultofmac.com/470185/tiah-macintoshii/), Cult of Mac.
+- [Amiga 500](https://theamigamuseum.com/amiga-models/amiga-500/), The Amiga Museum.
+- [Sharp X68000](https://museum.ipsj.or.jp/en/computer/personal/0038.html), IPSJ Computer Museum.
+- [NeXT Computer](https://lowendmac.com/2014/full-circle-a-brief-history-of-next/), Low End Mac.
+- [IBM AS/400](https://www.encora.com/insights/ibm-as400-historical-journey-and-future), Encora.
+- [IBM PS/2](https://www.ibm.com/history/ps-2), IBM.
+- [IBM PS/1](https://americanhistory.si.edu/collections/nmah_1303225), National Museum of American History.
+- [Apple PowerBook](https://everymac.com/systems/apple/powerbook/index-powerbook.html), Every Mac.
+- [Amiga 1200](https://theamigamuseum.com/amiga-models/amiga-1200/), The Amiga Museum.
+- [IBM ThinkPad](https://www.thinkwiki.org/wiki/ThinkPad_History), Think Wiki.
+- [Apple Power Macintosh](https://apple-history.com/6100), Apple History.
+- [IBM Aptiva](https://americanhistory.si.edu/collections/nmah_1451182), National Museum of American History.
+- [Sun Ultra 1](https://www.computinghistory.org.uk/det/11392/Sun-Ultra-1-Creator/), Centre of Computing History.
+
 
 ## Protocols and Networking
 
